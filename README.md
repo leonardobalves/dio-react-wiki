@@ -1,6 +1,6 @@
 # Projeto Criando Uma Wiki de Repositórios do GitHub Com React
 
-Criando uma wiki que busca e lista repositórios do GitHub.
+Criando uma wiki que busca e lista repositórios do GitHub do curso oferecido na DIO.
 
 ## Instalação
 
